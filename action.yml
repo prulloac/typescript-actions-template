@@ -1,0 +1,10 @@
+name: ''
+description: ''
+author: 'prulloac'
+branding:
+  icon: 
+  color: 
+inputs:
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
